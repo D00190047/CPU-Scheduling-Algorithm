@@ -19,3 +19,5 @@ Notes:
 
 Additional functionality:
 print all processes sorted by their process ID - using "printall".
+
+Update: SJF implementation is incorrect. Did not take arrival time into account.
